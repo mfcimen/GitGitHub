@@ -14,6 +14,9 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
+
+//login tests are maintained here
+
 public class LoginTests {
 
     WebDriver driver;
