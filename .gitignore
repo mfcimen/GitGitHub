@@ -18,3 +18,7 @@ target/
 # Maven
 log/
 target/
+
+
+# some changes 
+SomeFolder/ 
